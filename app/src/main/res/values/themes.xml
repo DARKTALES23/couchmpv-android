@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.CouchMPV" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#17101E</item>
+        <item name="android:statusBarColor">#17101E</item>
+        <item name="android:navigationBarColor">#17101E</item>
+    </style>
+</resources>
